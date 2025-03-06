@@ -48,9 +48,6 @@ AI Lawyer is a Retrieval-Augmented Generation (RAG) chatbot that provides legal 
 3️⃣ **Get an AI-generated response** 🤖⚖️
 
 
-
-This project is open-source under the **MIT License**.
-
 ---
 
 Enjoy using AI Lawyer! ⚖️🤖
