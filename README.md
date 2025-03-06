@@ -47,19 +47,7 @@ AI Lawyer is a Retrieval-Augmented Generation (RAG) chatbot that provides legal 
 2️⃣ **Enter your legal question** ✍️
 3️⃣ **Get an AI-generated response** 🤖⚖️
 
-## 🔑 Environment Variables
 
-Create a `.env` file and add the following keys:
-
-```
-GROQ_API_KEY=your_groq_api_key
-```
-
-## ❤️ Contributing
-
-We welcome contributions! Feel free to submit pull requests or report issues. 🚀
-
-## 📜 License
 
 This project is open-source under the **MIT License**.
 
