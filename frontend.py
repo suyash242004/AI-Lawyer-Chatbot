@@ -10,7 +10,7 @@ uploaded_file = st.file_uploader("Upload PDF",
 
 # Step 2 : Chatbot Skeleton (Question and Answer)
 
-user_query = st.text_area("Enter your prompt : ", height=150, placeholder="Ask Anything")
+user_query = st.text_area("Enter your prompt : ", height=150, placeholder="Ask Anything related to law or human rights")
 
 ask_question = st.button("Ask AI Lawyer")
 
