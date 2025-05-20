@@ -14,7 +14,7 @@ AI Lawyer is a Retrieval-Augmented Generation (RAG) chatbot that provides legal 
 - 🐍 **Python** - Core programming language.
 - 📚 **LangChain** - Framework for building LLM-powered applications.
 - 💾 **FAISS** - Vector database for efficient document retrieval.
-- 🤖 **DeepSeek R1** - LLM for natural language understanding.
+- 🤖 **DeepSeek R1 and OpenAI** - LLM for natural language understanding.
 - 📄 **PDFPlumber** - Extracts text from PDF files.
 - 🎨 **Streamlit** - Web framework for interactive UI.
 - 🔐 **dotenv** - Manages API keys securely.
